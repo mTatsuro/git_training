@@ -1,2 +1,6 @@
-Hi! I'm Bob. I've been here for a while now.
+<<<<<<< HEAD
+Hi! I'm Bobby. I've been here for a while now.
+=======
+Hi! I'm Bobby. I've been here for a while now.
+>>>>>>> bobby_branch
 A new line for Bob.
